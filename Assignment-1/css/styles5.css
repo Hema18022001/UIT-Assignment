@@ -1,0 +1,118 @@
+*
+{
+	box-sizing: border-box;
+}
+
+/* navigation bar */
+
+header
+{
+	padding: 0;
+}
+
+.navbar-brand
+{
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+.nav-item
+{
+	padding: 0 18px;
+	color: #fff;
+}
+.nav-link
+{
+	font-size: 1.2rem;
+	font-family: "Montserrat-Light";
+}
+
+
+#title
+{
+	background-color: #EA738DFF;
+	color: #fff;
+}
+
+/* supplies */
+#supplies
+{
+	text-align: left;
+	padding-bottom: 20px;
+	margin-bottom: 60px;
+}
+#h1id
+{
+	text-align: center;
+	font-style: italic;
+	color: #CBCE91FF;
+	padding: 40px;
+	margin-top: 20px;
+}
+i
+{
+	margin-right: 10px;
+}
+article
+{
+	padding: 20px;
+	font-style: bold;
+	font-size: 1.5rem;
+	color: #EA738DFF;
+	line-height: 2;
+	margin-bottom: 20px;
+}
+.hthree
+{
+	text-align: center;
+	font-size: 2.5rem;
+	color: #CBCE91FF;
+}
+.a1
+{
+	text-decoration: none;
+	color: #EA738DFF;
+}
+#h2id
+{
+	text-align: center;
+	padding: 30px;
+	font-size: 2rem;
+	font-style: bold;
+	color: #EA738DFF;
+	text-transform: uppercase;
+}	
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+#newsec
+{
+	text-align: center;
+	color: #CBCE91FF;
+	font-size: 1.5rem;
+	font-style: italic;
+}
+.supplya1
+{
+	color: #EA738DFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
