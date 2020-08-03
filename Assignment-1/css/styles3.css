@@ -1,0 +1,134 @@
+*
+{
+	box-sizing: border-box;
+}
+
+/* navigation bar */
+
+header
+{
+	padding:  0;
+}
+.navbar-brand
+{
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+.nav-item
+{
+	padding: 0 18px;
+	color: #fff;
+}
+.nav-link
+{
+	font-size: 1.2rem;
+	font-family: "Montserrat-Light";
+}
+
+
+#title
+{
+	background-color: #EA738DFF;
+	color: #fff;
+}
+
+/* care */
+.hone
+{
+	font-style: bold;
+	text-align: center;
+	color: #CBCE91FF;
+	padding: 40px;
+}
+.htwo
+{
+	font-style: italic;
+	text-align: left;
+	color: #CBCE91FF;
+	padding: 20px;
+	margin-left: 40px;
+}
+.ul1
+{
+	padding-top: -20px;
+	margin-left: 40px;
+	padding-bottom: 40px;
+}
+.content-link
+{
+	color: #EA738DFF;
+}
+#setup
+{
+	background-color: #EA738DFF;
+	padding: 60px;
+	padding-bottom: 60px;
+}
+.htwo2
+{
+	color: #CBCE91FF;
+	text-align: center;
+	font-style: italic;
+}
+article
+{
+	color: #fff;
+	text-align: center;
+}
+.st
+{
+	color: #CBCE91FF;
+}
+.i
+{
+	text-align: center;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	padding-top: 30px;
+
+}
+
+/*feedup */
+#feedup
+{
+	padding-top: 50px;
+	padding-bottom: 100px;
+	margin-top: 80px;
+}
+.htwo3
+{
+	color: #EA738DFF;
+	text-align: center;
+	font-style: italic;
+}
+.ul2
+{
+	padding-top: 60px;
+	color: #CBCE91FF;
+	font-style: bold;
+}
+li
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* know happy*/
+
+#knowhappy
+{
+	background-color: #CBCE91FF;
+	padding: 60px;
+}
+.htwo4
+{
+	color: #EA738DFF;
+	text-align: center;
+	font-style: italic;
+}
+ol
+{
+	color: #fff;
+	padding-top: 30px;
+}
