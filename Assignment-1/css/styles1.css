@@ -1,0 +1,77 @@
+body
+{
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Ranchers', cursive;
+}
+
+.container-fluid
+{ 
+	padding: 2% 15%;
+}
+#top
+{
+	font-size: 1.5rem;
+}
+#title
+{
+	background-color: #EA738DFF;
+	color: #fff;
+	padding-bottom: 30px;
+}
+#one
+{
+	font-size: 2em;
+	margin-top: 10px;
+	line-height: 1.8;
+}	
+img
+{
+	padding: 30px;
+	margin-left: 30px;
+
+}
+
+/* navigation bar */
+
+header
+{
+	padding:  0 0 3rem;
+	/*background-color: #CBCE91FF;*/
+}
+
+.navbar-brand
+{
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+.nav-item
+{
+	padding: 0 18px;
+	color: #fff;
+}
+.nav-link
+{
+	font-size: 1.2rem;
+	font-family: "Montserrat-Light";
+}
+p
+{
+	font-size: 1.6rem;
+	text-align: center;
+}
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+button
+{	
+	margin: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
