@@ -1,0 +1,119 @@
+  body
+{
+ font-family: 'Balsamiq Sans', cursive;
+  background-image: url('ph1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  opacity: 1;
+}
+#title
+{
+  font-size: 1.5em;
+  color:  #DCAE1D;
+  font-family: 'Balsamiq Sans', cursive;
+}
+#h1
+{
+  font-size: 1.2em;
+  color: #ffffff;
+  padding-left: 80px;
+  padding-right: 20px;
+}
+
+i
+{
+  padding-top: 10px;
+  padding-right: 20px;
+}
+/* navigation bar */
+
+header
+{
+  margin-top: 10px;
+  padding:  0 0 2rem;
+  /*background-color: #00303F ;*/
+  color: ;
+}
+
+.navbar-brand
+{
+  font-size: 2.5rem;
+}
+.nav-item
+{
+  padding: 0 20px;
+  color: #DCAE1D;
+}
+#nav-link
+{
+  font-size: 1.5rem;
+   font-family: 'Balsamiq Sans', cursive;
+  color:  #ffffff;
+}
+
+#htwo1
+{
+  text-align: center;
+  color:  #eca1a6;
+  padding: 30px;
+  font-size: 3em;
+}
+#main
+{
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+#pone1
+{
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.5em;
+}
+#div2
+{
+  padding: 30px;
+}
+
+#hfour1
+{
+  color:  #eca1a6;
+  padding: 30px;
+  font-size: 1.8em;
+  text-decoration: underline;
+}
+#hsix1,#hsix2,#hsix3,#hsix4,#hsix5,#hsix6,#hsix7,#hsix8
+{
+  color:  #eca1a6;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+#pone2,#pone3,#pone4,#pone5,#pone6,#pone7,#pone8,li
+{
+  color: #ffffff;
+  font-size: 1.4em;
+  padding: 15px;
+}
+#div2 li
+{
+  list-style-type:square;
+}
+#hfive
+{
+  padding: 40px;
+  color: #eca1a6;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2em;
+}
+
+
+
+
+
+
+
+
+

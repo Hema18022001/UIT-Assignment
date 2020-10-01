@@ -1,0 +1,84 @@
+body
+{
+  font-family: 'Lobster Two', cursive;
+  font-family: 'Satisfy', cursive;
+}
+#title
+{
+  font-size: 1.5em;
+  color:  #CAE4DB;
+  font-family: 'Lobster Two', cursive;
+  font-family: 'Satisfy', cursive;
+}
+#h1
+{
+  font-size: 1.2em;
+  color: #CAE4DB ;
+  padding-left: 80px;
+  padding-right: 20px;
+}
+i
+{
+  padding: 10px;
+  padding-right: 20px;
+}
+/* navigation bar */
+
+header
+{
+  margin-top: 10px;
+  padding:  0 0 2rem;
+  background-color: #00303F ;
+  color: ;
+}
+
+.navbar-brand
+{
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.nav-item
+{
+  padding: 0 20px;
+  color: #CAE4DB;
+}
+#nav-link
+{
+  font-size: 1.2rem;
+   font-family: 'Lobster Two', cursive;
+  font-family: 'Satisfy', cursive;
+  color:  #CAE4DB;
+}
+
+#hone,#pnew
+{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.8em;
+  color:  #00303F ;
+  padding: 10px;
+}
+
+#reg
+{
+  background-color: #CAE4DB;
+}
+#hone
+{
+  padding-top: 60px;
+}
+#pnew
+{
+  padding-bottom: 50px;
+}
+
+label
+{
+  color:  #00303F ;
+}
+#form1
+{
+  border: 2px solid black;
+  padding: 40px;
+}
+
